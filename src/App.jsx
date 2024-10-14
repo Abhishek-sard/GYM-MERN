@@ -1,6 +1,6 @@
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';
-import { Router, BrowserRouter as router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css'
 import Navbar from './Components/Navbar';
 import Hero from './Components/Hero';

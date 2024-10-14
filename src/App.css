@@ -29,7 +29,7 @@ header p {
 .hero {
   min-height: 100vh;
   position: relative;
-  background: url(/img3.jpg) rgba(0, 0, 0, 0.75);
+  background: url(../public/img3.jpg) rgba(0, 0, 0, 0.75);
   background-blend-mode: darken;
   background-size: cover;
   background-repeat: no-repeat;
