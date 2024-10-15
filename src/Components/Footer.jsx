@@ -2,7 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div></div>
+    <footer>
+      Designed And Developed by Abhishek Sardar copyright@2024
+    </footer>
   )
 }
 
