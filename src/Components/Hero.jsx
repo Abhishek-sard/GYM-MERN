@@ -8,13 +8,13 @@ const Hero = () => {
                 <h1>GET</h1>
                 <h1>MOVING</h1>
             </div>
-            <div className="sub-tittle">
+            <div className="sub-title">
                 <p>Your Journey to Fitness Starts Here</p>
                 <p>Unleash Your Potential</p>
             </div>
             <div className="buttons">
-                <buttons>Start Your Journey</buttons>
-                <buttons>Discover Your Plan</buttons>
+                <button>Start Your Journey</button>
+                <button>Discover Your Plan</button>
             </div>
         </div>
 

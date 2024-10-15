@@ -41,11 +41,11 @@ header p {
 .hero .content {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 20px;
 }
 .hero .content .title {
   color: whitesmoke;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 .hero .content .sub-title p {
   font-weight: 400;
